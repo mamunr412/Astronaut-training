@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "price": 500,
+        "cousrseName": "Therapeutic Listening",
+        "img": "https://www.coraphysicaltherapy.com/wp-content/uploads/2021/04/alireza-attari-SBIak0pKUIE-unsplash-1-scaled-e1619020939622-1024x545.jpg",
+        "description": "Learn every facet of implementing a Therapeutic Listening protocol from assessment to program design and outcome measures."
+    },
+    {
+        "id": "2",
+        "price": 450,
+        "cousrseName": "Quickshifts",
+        "img": "https://www.seekpng.com/png/detail/136-1366754_quickshifts-learn-brain.png",
+        "description": "This course will explore the Quickshifts music albums that capitalize on the powerful impact of binaural beat technology and musical entrainment. These sound tools are a practical addition to match the demands of clinic, home, and school environments."
+    },
+    {
+        "id": "3",
+        "price": 600,
+        "cousrseName": "Astronaut Training",
+        "img": "https://doy2mn9upadnk.cloudfront.net/uploads/default/optimized/4X/d/4/2/d427a298c8e44a6e208e366cff493cc8305bc484_2_641x500.jpeg",
+        "description": "This course teaches a comprehensive sound activated, vestibular visual treatment protocol. Guidelines for safe effective use for clients of all ages and diagnoses will be discussed."
+    },
+    {
+        "id": "4",
+        "price": 700,
+        "cousrseName": "Building Blocks",
+        "img": "https://media.istockphoto.com/photos/human-hand-building-stairs-with-blocks-picture-id1283180698?b=1&k=20&m=1283180698&s=170667a&w=0&h=_gJ28Ikv-W9xHAx_Awhz8Uifay14HZ84D4Jw0U_7dlI=",
+        "description": "This course provides a detailed background on the links between Sensory Integration and the primary movement patterns (primitive and postural reflexes)."
+    },
+    {
+        "id": "5",
+        "price": 640,
+        "cousrseName": "Regulation & Trauma",
+        "img": "https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41526-020-00124-6/MediaObjects/41526_2020_124_Fig5_HTML.png",
+        "description": "This course discusses the interrelationships between Sensory processing dysfunction and trauma and attachment disorders. TRE, a specific approach to the treatment of trauma disorders, will be introduced."
+    },
+    {
+        "id": "6",
+        "price": 720,
+        "cousrseName": "Sharpening Focus",
+        "img": "https://cdn.lifehack.org/wp-content/uploads/2014/02/focus.jpg",
+        "description": "Sharpening Focus takes the Therapeutic Listening trained therapist to the next level. It introduces the Fine Tuning albums, as well as, their impact on auditory attention, auditory processing, self-regulation and learning."
+    },
+    {
+        "id": "7",
+        "price": 200,
+        "cousrseName": "Core Connections",
+        "img": "https://images.squarespace-cdn.com/content/v1/54d52c03e4b00f2d3ab85694/1517204248775-Q2FCP1YEGCBH2ZZIREIG/INT1.HB.web.jpg",
+        "description": "This course presents a clear definition of core along with a play based screening tool. The intricate connection between core development and self-regulation will be discussed."
+    },
+    {
+        "id": "8",
+        "price": 800,
+        "cousrseName": "Auditory Defensiveness",
+        "img": "https://www.griffinot.com/wp-content/uploads/ASD-Sensory-Processing-Disorder.jpg",
+        "description": "This course will examine the different clinical manifestations of auditory defensiveness and discuss multiple options for creating client specific treatment protocols."
+    }
+]

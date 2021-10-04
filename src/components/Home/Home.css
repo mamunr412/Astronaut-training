@@ -1,0 +1,15 @@
+.headline{
+    background-color: #f3f0f0;
+    margin-top: 50px;
+    padding: 20px;
+}
+.headline-des{
+    text-align: justify;
+}
+
+.card-conatiner{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 15px;
+    
+}

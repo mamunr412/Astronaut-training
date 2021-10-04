@@ -1,0 +1,20 @@
+.footer-container{
+    margin-top: 30px;
+    height: 200px;
+    background-color:#212529;
+    display: flex;
+    
+  
+}
+.footer{
+    margin-top: 15px;
+    margin-left: 60px;
+    margin-right: 30px;
+}
+.footer h4{
+    color: white;
+
+}
+.footer-list h5{
+    color :rgb(180, 177, 177);
+}
