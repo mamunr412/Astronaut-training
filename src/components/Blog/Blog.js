@@ -1,17 +1,16 @@
 import React from 'react';
 import { Col, Container, Row } from 'react-bootstrap';
+import './Blog.css'
 
 const Blog = () => {
     return (
-        <div>
-
+        <div className="blog-container">
             <Container>
                 <Row>
                     <Col>
-
                         <div>
-                            <h1>
-                                <a href="https://vitallinks.com/blog/a-musical-spotlight-links-to-connection/" target="_blank">A Musical Spotlight – Links to Connection</a>
+                            <h1 >
+                                <a className="blog-title" href="https://vitallinks.com/blog/a-musical-spotlight-links-to-connection/"  >A Musical Spotlight – Links to Connection</a>
 
 
                             </h1>
@@ -22,7 +21,7 @@ const Blog = () => {
                         </div>
                         <div>
                             <h1>
-                                <a href="https://vitallinks.com/blog/clinical-conversation-exploring-self-regulation-powerfully-you-curriculum/" target="_blank">Clinical Conversation: Exploring Self-Regulation and Powerfully You Curriculum</a>
+                                <a className="blog-title" href="https://vitallinks.com/blog/clinical-conversation-exploring-self-regulation-powerfully-you-curriculum/" >Clinical Conversation: Exploring Self-Regulation and Powerfully You Curriculum</a>
 
                             </h1>
                             <div>
@@ -31,7 +30,7 @@ const Blog = () => {
                         </div>
                         <div>
                             <h1>
-                                <a href="https://vitallinks.com/blog/an-introduction-to-tre-with-sheila-frick/" target="_blank">An Introduction to TRE® with Sheila Frick</a>
+                                <a className="blog-title" href="https://vitallinks.com/blog/an-introduction-to-tre-with-sheila-frick/" >An Introduction to TRE® with Sheila Frick</a>
 
                             </h1>
                             <div>
