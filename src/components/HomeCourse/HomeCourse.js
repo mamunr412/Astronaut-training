@@ -4,6 +4,7 @@ import { Card, CardGroup } from 'react-bootstrap';
 import './HomeCourse.css'
 
 const HomeCourse = (props) => {
+    //destructuring from data
     const { cousrseName, description, img, price } = props.data
 
     return (

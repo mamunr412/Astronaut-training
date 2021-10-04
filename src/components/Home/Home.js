@@ -5,7 +5,9 @@ import useData from '../Hooks/useData';
 import './Home.css'
 
 const Home = () => {
+    // use hook to load data
     const [datas] = useData()
+    //  data slice to get 4 object
     const dataSlice = datas.slice(0, 4);
 
     return (

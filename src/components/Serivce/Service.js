@@ -3,7 +3,7 @@ import { Card, CardGroup } from 'react-bootstrap';
 import './service.css'
 
 const Service = (props) => {
-    console.log(props.data)
+    //destructuring from data
     const { img, description, cousrseName, price } = props.data
 
     return (

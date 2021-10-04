@@ -5,6 +5,7 @@ import Service from '../Serivce/Service';
 import './Services.css'
 
 const Services = () => {
+    // use hook to load data
     const [datas] = useData()
     console.log(datas)
     return (
