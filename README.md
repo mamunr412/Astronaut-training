@@ -3,7 +3,7 @@
  [ Simple React Education website](https://react-education-site.netlify.app/).
 
 
-## Simple Education Website
+### Simple Education Website
 
 In the project i try to give some spacial course about Astronaut training.
 
