@@ -2,9 +2,10 @@
 
  [ Simple React Education website](https://react-education-site.netlify.app/).
 
+
 ## Simple Education Website
 
-In the project i try to give some spacial course about Astronaut training
+In the project i try to give some spacial course about Astronaut training.
 
 ### Traning discripton
 In this website i share astronaut training to help people are interesting to this topic.
